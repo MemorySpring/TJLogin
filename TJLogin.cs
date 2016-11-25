@@ -8,7 +8,7 @@ using System.Text;
 /// Tongji-University
 /// Email：1847986694@qq.com
 /// </summary>
-namespace 网页抓举
+namespace  TJ
 {
     public class TJLogin
     {
